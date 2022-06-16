@@ -1,3 +1,3 @@
-name=input("Name: ")
 
-print('hello,', name)
+
+print('hello, world')
